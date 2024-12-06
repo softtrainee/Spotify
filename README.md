@@ -20,3 +20,5 @@ Find similar icon assets online.
 <img width="487" alt="Screenshot 2024-12-06 at 4 07 10 PM" src="https://github.com/user-attachments/assets/23e84db3-6c59-4fa3-89a7-78b85f151447">
 
 
+# Video
+https://youtube.com/shorts/NR95y9QpBIY
